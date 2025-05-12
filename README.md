@@ -1,16 +1,16 @@
 
-### OLÁ EU SOU DEIVID WILLIAM MACHADO 👋
+### OLÁ EU SOU LUCAS GRAFF 👋
 
 
-- 🔭 Apenas estudando no momento
-- 🌱 Estudando Engenharia da Computação e Desenvolvedor FullStack
-- 📫 Email: deivid.machado@universo.univates.br
+- 🔭 Trabalhando e estudando no momento
+- 🌱 Estudando Tecnico em Informatica
+- 📫 Email: lucas.graff@universo.univates.br
 - 😄 Pronouns: ele/dele
 
 <div>
-  <a href="https://github.com/DeividWM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividWM&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividWM&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/Lucas-Graff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Graff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Graff&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40"
