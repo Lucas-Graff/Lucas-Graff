@@ -22,7 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deivid-java height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="right" alt="Rafa-yoda" src="https://i.makeagif.com/media/9-22-2021/Uk9bBA.gif" />                                                                             
+                                                                          
                                                                               
   </div>
                                                                                                                               ##
